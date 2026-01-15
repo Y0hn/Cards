@@ -1,0 +1,3 @@
+[submodule "src/cardmeister"]
+	path = src/cardmeister
+	url = https://github.com/cardmeister/cardmeister.github.io.git
