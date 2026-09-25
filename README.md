@@ -42,6 +42,10 @@
     </h3>
         <a href="https://github.com/cardmeister/cardmeister.github.io/">
             CardMeister
+        </a>
+        <br>
+        <a href="https://github.com/Sesebasti/BalatroDeckSkins">
+            Balatro
         </a> 
         <br>
 </div>

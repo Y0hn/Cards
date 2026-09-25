@@ -1,3 +1,6 @@
 [submodule "src/cardmeister"]
 	path = src/cardmeister
 	url = https://github.com/cardmeister/cardmeister.github.io.git
+[submodule "src/balatro"]
+	path = src/balatro
+	url = git@github.com:Sesebasti/BalatroDeckSkins.git
